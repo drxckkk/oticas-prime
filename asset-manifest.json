@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/oticas-prime/static/css/main.e6c13ad2.css",
+    "main.js": "/oticas-prime/static/js/main.00c08f16.js",
+    "static/js/453.6fb87963.chunk.js": "/oticas-prime/static/js/453.6fb87963.chunk.js",
+    "index.html": "/oticas-prime/index.html",
+    "main.e6c13ad2.css.map": "/oticas-prime/static/css/main.e6c13ad2.css.map",
+    "main.00c08f16.js.map": "/oticas-prime/static/js/main.00c08f16.js.map",
+    "453.6fb87963.chunk.js.map": "/oticas-prime/static/js/453.6fb87963.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.00c08f16.js"
+  ]
+}
