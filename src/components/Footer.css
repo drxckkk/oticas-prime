@@ -1,0 +1,20 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background: #000000; /* preto */
+  color: #D4AF37;     /* dourado */
+  font-size: 0.9rem;
+}
+
+.social a {
+  margin-left: 1rem;
+  text-decoration: none;
+  color: #D4AF37;
+  transition: opacity 0.2s;
+}
+
+.social a:hover {
+  opacity: 0.8;
+}

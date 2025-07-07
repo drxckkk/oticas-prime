@@ -1,0 +1,153 @@
+.home-container {
+  font-family: sans-serif;
+  color: #000;
+}
+
+.hero-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #000;
+  color: #D4AF37;
+  padding: 4rem 2rem;
+  margin-bottom: 3rem;
+}
+
+.hero-content {
+  max-width: 50%;
+}
+
+.hero-content h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.hero-content p {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.btn-primary {
+  padding: 0.8rem 1.6rem;
+  background: #D4AF37;
+  color: #000000;
+  border: none;
+  border-radius: 100px;
+  border-color: #D4AF37;
+  border-style: solid;
+  font-weight: bold;
+  font-size: medium;
+  cursor: pointer;
+}
+.btn-primary:hover {
+  opacity: 0.8;
+}
+
+.btn-secondary {
+  margin-top: 1rem;
+  padding: 0.8rem 1.6rem;
+  background: #00000000;
+  color: #000000;
+  border: none;
+  border-radius: 100px;
+  border-color: #000000;
+  border-style: solid;
+  font-weight: bold;
+  font-size: medium;
+  cursor: pointer;
+}
+
+.hero-image {
+  background: url('/assets/home-hero.jpg') center/cover no-repeat;
+  width: 40%;
+  height: 300px;
+  border-radius: 8px;
+}
+
+.features-section {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.features-grid {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  margin-top: 1.5rem;
+}
+
+.feature-item {
+  flex: 1;
+  max-width: 200px;
+}
+
+.feature-item .icon {
+  width: 60px;
+  height: 60px;
+  margin: 0 auto 1rem;
+  background-size: contain;
+}
+
+.quality-icon { background-image: url('/assets/icons/quality.svg'); }
+.style-icon   { background-image: url('/assets/icons/style.svg'); }
+.support-icon { background-image: url('/assets/icons/support.svg'); }
+
+.highlight-products {
+  margin-bottom: 3rem;
+}
+
+h2 {
+    width: 100%;
+    text-align:center;
+}
+
+.products-grid {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.product-card {
+  background: #f9f9f9;
+  padding: 1rem;
+  border-radius: 8px;
+  text-align: center;
+  width: 220px;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.product-card:hover {
+  transform: translateY(-4px);
+}
+
+.product-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin-bottom: 0.5rem;
+}
+
+.cta-section {
+  background: #D4AF37;
+  color: #000;
+  padding: 2rem;
+  text-align: center;
+  border-radius: 8px;
+}
+
+/* Responsivo */
+@media (max-width: 768px) {
+  .hero-section {
+    flex-direction: column;
+    text-align: center;
+  }
+  .hero-content, .hero-image {
+    width: 100%;
+  }
+  .features-grid, .products-grid {
+    flex-direction: column;
+    align-items: center;
+  }
+}

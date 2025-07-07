@@ -1,9 +1,13 @@
-import { Link } from 'react-router-dom'
+import './Footer.css'
 
-export default function Header() {
+export default function Footer() {
   return (
-    <header>
-      <h1>Acabou</h1>
-    </header>
+    <footer className="footer">
+      <div>© 2025 Óticas Prime Vision X</div>
+      <div className="social">
+        <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">Facebook</a>
+        <a href="https://instagram.com/oticasprimevisionx/" target="_blank" rel="noopener noreferrer">Instagram</a>
+      </div>
+    </footer>
   )
 }
