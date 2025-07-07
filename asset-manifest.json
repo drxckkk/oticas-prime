@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/oticas-prime/static/css/main.e6c13ad2.css",
-    "main.js": "/oticas-prime/static/js/main.00c08f16.js",
+    "main.css": "/oticas-prime/static/css/main.eebd3a74.css",
+    "main.js": "/oticas-prime/static/js/main.7c3efe53.js",
     "static/js/453.6fb87963.chunk.js": "/oticas-prime/static/js/453.6fb87963.chunk.js",
+    "static/media/home-hero.jpg": "/oticas-prime/static/media/home-hero.4179c3ebcc486516da59.jpg",
     "index.html": "/oticas-prime/index.html",
-    "main.e6c13ad2.css.map": "/oticas-prime/static/css/main.e6c13ad2.css.map",
-    "main.00c08f16.js.map": "/oticas-prime/static/js/main.00c08f16.js.map",
+    "static/media/support.svg": "/oticas-prime/static/media/support.98a63e9fbe3e26cd9004.svg",
+    "static/media/style.svg": "/oticas-prime/static/media/style.ba0cff233144647e7790.svg",
+    "static/media/quality.svg": "/oticas-prime/static/media/quality.551ca04c41b6f21cfd51.svg",
+    "main.eebd3a74.css.map": "/oticas-prime/static/css/main.eebd3a74.css.map",
+    "main.7c3efe53.js.map": "/oticas-prime/static/js/main.7c3efe53.js.map",
     "453.6fb87963.chunk.js.map": "/oticas-prime/static/js/453.6fb87963.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.00c08f16.js"
+    "static/css/main.eebd3a74.css",
+    "static/js/main.7c3efe53.js"
   ]
 }
