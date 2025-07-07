@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/oticas-prime/static/css/main.eebd3a74.css",
-    "main.js": "/oticas-prime/static/js/main.7c3efe53.js",
-    "static/js/453.6fb87963.chunk.js": "/oticas-prime/static/js/453.6fb87963.chunk.js",
-    "static/media/home-hero.jpg": "/oticas-prime/static/media/home-hero.4179c3ebcc486516da59.jpg",
-    "index.html": "/oticas-prime/index.html",
-    "static/media/support.svg": "/oticas-prime/static/media/support.98a63e9fbe3e26cd9004.svg",
-    "static/media/style.svg": "/oticas-prime/static/media/style.ba0cff233144647e7790.svg",
-    "static/media/quality.svg": "/oticas-prime/static/media/quality.551ca04c41b6f21cfd51.svg",
-    "main.eebd3a74.css.map": "/oticas-prime/static/css/main.eebd3a74.css.map",
-    "main.7c3efe53.js.map": "/oticas-prime/static/js/main.7c3efe53.js.map",
-    "453.6fb87963.chunk.js.map": "/oticas-prime/static/js/453.6fb87963.chunk.js.map"
+    "main.css": "/static/css/main.9ce38318.css",
+    "main.js": "/static/js/main.3800230a.js",
+    "static/js/453.6fb87963.chunk.js": "/static/js/453.6fb87963.chunk.js",
+    "static/media/home-hero.jpg": "/static/media/home-hero.4179c3ebcc486516da59.jpg",
+    "index.html": "/index.html",
+    "static/media/support.svg": "/static/media/support.98a63e9fbe3e26cd9004.svg",
+    "static/media/style.svg": "/static/media/style.ba0cff233144647e7790.svg",
+    "static/media/quality.svg": "/static/media/quality.49fbc808c3259e1f1727.svg",
+    "main.9ce38318.css.map": "/static/css/main.9ce38318.css.map",
+    "main.3800230a.js.map": "/static/js/main.3800230a.js.map",
+    "453.6fb87963.chunk.js.map": "/static/js/453.6fb87963.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eebd3a74.css",
-    "static/js/main.7c3efe53.js"
+    "static/css/main.9ce38318.css",
+    "static/js/main.3800230a.js"
   ]
 }
